@@ -6,7 +6,7 @@
 The Music Recommending Chatbot
 </h3>
 
-## About The Project
+## About The Project-
 <p>
 Music is in every corner of the world, it is the one thing that connects us all. Now, given the rapid technological development, now-a-days, people are listening to songs on their mobile phones. There are roughly 140 million monthly music listeners (approx. data for Spotify) in the U.S alone. But every year 9% of the users are withdrawing their subscription because of the algorithm that suggests songs to the user.
   
@@ -19,6 +19,21 @@ We have created a chatbot to solve current music listeners’ struggles. The cha
 ### Objectives:
 <ul>
   <li>Using multiple services to build up a new service over them.</li>
-  <li>Having a real-world chatbot, to which you can literally chat like you chatting to a real person and enjoying the music recommended by the system.</li>
-  <li>Milk</li>
+  <li>Having a real-world chatbot, to which you can literally chat like you chatting to a real person</li>
+  <li>Figure out the mood of the user</li>
+  <li>Enjoying the music recommended by the system.</li>
+  <li>Help listeners connect their songs to their emotion and feel the song more.</li>
 </ul>
+
+### Built using:
+<ul>  
+<li><strong><a href="https://anvil.works/" rel="nofollow">ANVIL Framework</a></strong> - User Interface</li>
+<li><strong><a href="https://tone-analyzer-demo.ng.bluemix.net/" rel="nofollow">IBM Tone Analyzer</a></strong> - Emotional Analysis</li>
+<li><strong><a href="https://www.last.fm/" rel="nofollow"> Last.FM API</a></strong> - Songs Recommendation</li>  
+<li><strong><a href="https://colab.research.google.com" rel="nofollow"> Google Colaborator</a></strong> - Backend</li>  
+</ul>
+
+## Getting Started:
+Fork and clone this repository in your local system.
+
+git clone https://github.com/Srishti20022/Music-me-Chatbot_song_recommendor_system-.git
