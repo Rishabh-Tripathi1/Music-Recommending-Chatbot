@@ -71,7 +71,7 @@ Contributions are what make the open source community such an amazing place to l
 ## Contacts:
 <ul dir="auto">
 <li>
-<p dir="auto"><a href="https://github.com/KomalSangwan">Hrushikesh Shetty</a>: Frontend Developer</p>
+<p dir="auto"><a href="https://www.github.com/hrushikesh070902/">Hrushikesh Shetty</a>: Frontend Developer</p>
 <p dir="auto"><a href="https://www.linkedin.com/in/hrushikesh-shetty/" rel="nofollow">LinkedIn</a></p>
 </li>
 <li>
