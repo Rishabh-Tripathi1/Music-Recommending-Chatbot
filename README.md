@@ -51,7 +51,7 @@ Fork and clone this repository in your local system.
 <li>Create an account on <strong><a href="https://cloud.ibm.com/" rel="nofollow">IBM Cloud</a></strong> (It's free)</li>
 <li>Enable the Tone Analyzer Service for your account from <strong><a href="https://cloud.ibm.com/catalog/services/tone-analyzer" rel="nofollow">here</a></strong>.</li>
 <li>Try running the Python code for analyzing the conversation from <strong><a href="https://cloud.ibm.com/apidocs/tone-analyzer?code=python#tone" rel="nofollow">here</a></strong> and don't forget to replace {apikey} and {url} with the apikey and url you received by enabling Tone Analyser Service for your account.</li>
-<li>Create API account on <strong><a href="https://cloud.ibm.com/apidocs/tone-analyzer?code=python#tone" rel="nofollow">Last.FM</a></strong> songs API and get the API_KEY.</li>
+<li>Create API account on <strong><a href="https://last.fm" rel="nofollow">Last.FM</a></strong> songs API and get the API_KEY.</li>
 <li>Get top tracks using your API_KEY.</li>
 </ol>
 
