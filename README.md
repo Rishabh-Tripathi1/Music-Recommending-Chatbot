@@ -80,7 +80,7 @@ Contributions are what make the open source community such an amazing place to l
 </li>
 <li>
 <p dir="auto"><a href="https://github.com/Rishabh-Tripathi1">Rishabh Tripathi</a>: Backend Developer</p>
-<p dir="auto"><a href="https://www.linkedin.com/in/rishabhtripathi02/" rel="nofollow">LinkedIn</a></p>
+<p dir="auto"><a href="https://www.linkedin.com/in/rishabhtripathi1/" rel="nofollow">LinkedIn</a></p>
 </li>
 </ul>
 
